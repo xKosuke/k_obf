@@ -1,6 +1,6 @@
 # Obfuscateur Python avec Cython
 
-Ce script permet d'obfusquer des fichiers Python en utilisant la bibliothèque Cython (en C). Il peut être utilisé pour protéger le code source de vos projets Python.
+Petit script qui permet d'obfusquer des fichiers Python en utilisant Cython (en C).
 
 ## Prérequis
 
