@@ -9,11 +9,11 @@ Ce script permet d'obfusquer des fichiers Python en utilisant la bibliothèque C
 
 ## Utilisation
 
-``python obf.py nom_du_fichier.py``
+``python obf.py obfusque_fichier.py``
 
 Pour obfusquer le fichier mon_fichier.py en utilisant un nom de fichier obfusqué personnalisé :
 
-``python obf.py nom_du_fichier.py -o nom_du_fichier_obf.py``
+``python obf.py obfusque_fichier.py -o mon_nom.py``
 
 Le fichier obfusqué sera enregistré sous le nom spécifié.
 
